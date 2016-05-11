@@ -1,4 +1,4 @@
-# MATERILIZE EXP
+# Making Material
 ## This is an Experiment with the web front end design Based on Google's Material Design Principle.
 
 # Tools Using
